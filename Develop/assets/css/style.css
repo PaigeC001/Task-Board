@@ -1,16 +1,41 @@
+/* General Styles */
 body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  background-color: #f8f9fa;
+}
+
+h1, h2 {
+  font-family: 'Roboto', sans-serif;
+  color: #343a40;
 }
 
 .swim-lanes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.lane {
   min-height: 60vh;
 }
 
-.task-card {
-  margin: 0 auto;
+.card {
+  border-radius: 0.5rem;
 }
 
-.task-card:hover {
-  cursor: grab;
+.card-body {
+  text-align: left;
+}
+
+.task-card {
+  cursor: move;
+}
+
+/* Specific Color Coding */
+.bg-danger {
+  background-color: #dc3545 !important;
+}
+
+.bg-warning {
+  background-color: #ffc107 !important;
 }

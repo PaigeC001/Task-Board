@@ -52,10 +52,17 @@ To run the Task Board project locally, follow these steps:
 
 # Contributors
 
-
+- https://github.com/PaigeC001
+- https://github.com/Xandromus
+- https://github.com/mcewball13
 
 # Links
 
+GitHub Repo
+- https://github.com/PaigeC001/Task-Board
+  
+Deployed Page
+- https://paigec001.github.io/Task-Board/ 
 
 
 
